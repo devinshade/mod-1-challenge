@@ -24,6 +24,12 @@ WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 </p>
 
+## Usage
+
+![Horiseon Main Page](./assets/images/Screenshot%202023-09-19%20at%208.13.07%20PM.png)
+
+[Mod-1-Challenge](https://devinshade.github.io/mod-1-challenge/)
+
 ## Credits
 
 University of Texas Bootcamp provided the html, css, and all content.
