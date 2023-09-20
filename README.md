@@ -1,4 +1,3 @@
-# Code Refactor Starter Code
 # Module 1 Challenge
 
 ## User Story
@@ -24,3 +23,15 @@ THEN they fall in sequential order<br>
 WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 </p>
+
+## Credits
+
+University of Texas Bootcamp provided the html, css, and all content.
+
+## License
+
+None
+
+## Test
+
+Is it up to accessibility standards?
