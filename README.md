@@ -1,4 +1,4 @@
-# Module 1 Challenge
+# Accessibility Audit
 
 ## User Story
 
@@ -34,10 +34,6 @@ THEN I find a concise, descriptive title<br>
 
 University of Texas Bootcamp provided the html, css, and all content.
 
-## License
-
-None
-
 ## Test
 
-Is it up to accessibility standards?
+Review the code to ensure accessibility standards are met.
